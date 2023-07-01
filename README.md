@@ -16,4 +16,4 @@ Plataforma de acesso rápido a lista de repositórios e descrições do GitHub
 
 ## Detalhes do projeto
 
-Uma plataforma feita em React que consome APIs do GitHub para buscar os nome de usuarios, descrição do perfil, repositórios públicos e suas descrições. O site foi desenvolvido em uma atividade da plataforma DIO, na formação de react.
+Uma plataforma feita em React que consome APIs do GitHub para buscar os nome de usuarios, descrição do perfil, repositórios públicos e suas descrições. O site foi desenvolvido em uma atividade da plataforma DIO, na formação de react
